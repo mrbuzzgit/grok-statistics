@@ -1,4 +1,4 @@
-# grok-statistics
+# python-statistics
 
 100 Python Codes
 
